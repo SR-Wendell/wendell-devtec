@@ -9,7 +9,7 @@
  <a href="https://devtecapps.com.br" target="blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="wendell" />
  </a>
- <a href="https://www.linkedin.com/in/wendell-devtec/" target="_blank">
+ <a href="www.linkedin.com/in/silva-w" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wendell"/>
  </a>
 </p>
