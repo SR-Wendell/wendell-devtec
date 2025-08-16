@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá tudo bem ? Me chamo
-                <b><a target="_blank" href="https://devtecapps.com.br">Wendell Silva</a></b>
+                <b><a target="_blank" href="">Wendell Silva</a></b>
         </samp>
 </h3>
 
